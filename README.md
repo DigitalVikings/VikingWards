@@ -2,13 +2,11 @@
 
 **VikingWards** transforms Valheim's defensive Wards into interactive **Divine Conduits**. Make offerings to five Norse deities to unlock tiers of domestic sanctuary, creature deterrence, resource preservation, and territory-wide combat rites powered by VikingLib.
 
-![Ward Slate Dialog](ward_ui.png)
+![Ward Slate Dialog](https://raw.githubusercontent.com/DigitalVikings/VikingWards/main/ward_ui.png)
 
-> [!WARNING]
-> **Work in Progress (Pre-Release v0.1.0)**: This mod is in active development and has not been tested extensively. Features, balance, and mechanics may change, and unintended bugs or edge cases may occur. Backup your character and world saves before testing.
+> ⚠️ **Work in Progress (Pre-Release v0.1.0)**: This mod is in active development and has not been tested extensively. Features, balance, and mechanics may change, and unintended bugs or edge cases may occur. Backup your character and world saves before testing.
 
-> [!IMPORTANT]
-> **Powered by VikingLib**: This mod requires [VikingLib](https://valheim.thunderstore.io/package/DigitalVikings/VikingLib/). 
+> ⚡ **Powered by VikingLib**: This mod requires [VikingLib](https://valheim.thunderstore.io/package/DigitalVikings/VikingLib/). 
 > VikingLib replaces Valheim's native combat calculation and stat engines. Not all mods may be compatible / work as expected with this.
 
 ---
