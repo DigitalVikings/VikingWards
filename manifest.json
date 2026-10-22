@@ -1,0 +1,11 @@
+{
+  "name": "VikingWards",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/DigitalVikings/VikingWards",
+  "description": "Transforms Wards into Divine Conduits with deity offerings, domestic sanctuary, creature deterrence, and VikingLib stat scaling.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+    "ValheimModding-Jotunn-2.20.1",
+    "DigitalVikings-VikingLib-0.1.0"
+  ]
+}
