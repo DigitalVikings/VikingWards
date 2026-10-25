@@ -1,8 +1,14 @@
-﻿# Changelog
+# Changelog
 
 All notable changes to **VikingWards** will be documented in this file.
 
-## [0.1.0] - 2026-10-25
+## [0.1.1] - 2026-10-25
+
+### Fixed
+- **Build & Packaging Automation**: Resolved version string escaping in deployment and packaging toolchain.
+- **Documentation & Inscriptions**: Corrected runic offering recipe descriptions on inscribed Ward Slates.
+
+## [0.1.0] - 2026-10-22
 
 ### Added
 - **Divine Conduits**: Dedicate defensive Wards to one of five Norse patrons (Odin, Thor, Frey, Tyr, Freya) through an interactive inscribed Ward Slate interface.
